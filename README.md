@@ -1,4 +1,4 @@
-House Prices Prediction: Advanced Regression Techniques
+## House Prices Prediction: Advanced Regression Techniques
 Introduction
 Predicting the sales price of a house is a crucial aspect of real estate, influenced by a myriad of factors. Some factors contribute to price increments, some to decrements, and others are interdependent. To unveil the intricate relationship between these attributes and sale prices, this project utilizes data from 1460 houses, encompassing various influencing factors like overall condition, neighborhood, presence of basement and garage, among others. Originally created for the Kaggle competition, this project has garnered 2000+ views and earned a feature on Kaggle. It comprises both exploratory data analysis and predictive modeling. If you find this project valuable, kindly consider giving it a star. Thank you!
 
