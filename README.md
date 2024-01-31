@@ -19,7 +19,7 @@ Predicting the sales price of a house is a crucial aspect of real estate, influe
 
 4. **Training, Evaluating, and Tuning Models:**
    - Identifying the best model(s) with the least Root Mean Squared Error (RMSE).
-   - Taking a weighted average of the best-performing models to make predictions on valid
+   - Taking a weighted average of the best-performing models to make predictions on valid.
 
 
 
